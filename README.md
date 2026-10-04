@@ -1,2 +1,2 @@
-# homelabdude.github.i
-The public repo to pubish any github pages at pages.homelabdude.com
+# homelabdude.github.io
+The public repo to publish any GitHub pages at `pages.homelabdude.com`
